@@ -1,11 +1,11 @@
 {
-  "name": "react-booster-cli",
+  "name": "fe-cli",
   "version": "0.0.1",
-  "description": "私人c licli",
+  "description": "私人cli",
   "keywords": [
     "cli"
   ],
-  "author": "feng <892751427@qq.com>",
+  "author": "afeng",
   "homepage": "https://github.com/00feng00/fe-cli#readme",
   "license": "ISC",
   "main": "lib/react-booster-cli.js",
